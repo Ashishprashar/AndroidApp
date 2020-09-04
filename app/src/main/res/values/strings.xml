@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="todo">TODO</string>
+    <string name="now_playing">NOW PLAYING</string>
+    <string name="todo1">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="this_is_the_artist_name">This is the artist name</string>
+    <string name="this_is_the_song_name">This is the song name</string>
+    <string name="todo3">TODO</string>
+    <string name="todo4">TODO</string>
+    <string name="todo5">TODO</string>
+    <string name="todo6">TODO</string>
+    <string name="todo7">TODO</string>
+</resources>
